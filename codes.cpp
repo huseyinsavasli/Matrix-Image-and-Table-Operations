@@ -1,6 +1,5 @@
 /*  Name and Surname:Hüseyin SAVAŞLI
-    KTU COM 2001: Object Oriented Programming
-    Middterm Assignment: A "Matrix, Image and Table Operations" */
+ A "Matrix, Image and Table Operations" */
 /*
 For Linux-On Terminal--To compile my c++ code,use 
 $g++ codes.cpp
